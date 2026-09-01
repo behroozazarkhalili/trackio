@@ -1,5 +1,11 @@
 # trackio
 
+## 0.38.0
+
+### Features
+
+- [#678](https://github.com/gradio-app/trackio/pull/678) [`df9168e`](https://github.com/gradio-app/trackio/commit/df9168e2d0de2b284413a7e81915e7c1f76e49ae) - Fix dotted metric names in line plots.  Thanks @abidlabs!
+
 ## 0.37.0
 
 ### Features
